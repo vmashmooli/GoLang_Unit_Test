@@ -9,7 +9,9 @@ Create a simple function to add two arguments, and then create a simple unit tes
 ## Getting Started
 
 Step 1 — Creating a sample golang package on main.go
+
 Step 2 — Creating a unit test on main_test.go
+
 Step 3 — Run the test
 
 ### Dependencies
